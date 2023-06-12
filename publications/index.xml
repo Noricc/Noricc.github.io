@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Noric Couderc</title>
-    <link>http://example.org/publications/</link>
+    <link>https://noricc.github.io/publications/</link>
     <description>Recent content in Publications on Noric Couderc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 15:16:12 +0100</lastBuildDate><atom:link href="http://example.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2020 15:16:12 +0100</lastBuildDate><atom:link href="https://noricc.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classification-based Collection Selection: Effectiveness and Adaptability</title>
-      <link>http://example.org/publications/classification_based_collection_selection/</link>
+      <link>https://noricc.github.io/publications/classification_based_collection_selection/</link>
       <pubDate>Mon, 12 Jun 2023 17:21:52 +0200</pubDate>
       
-      <guid>http://example.org/publications/classification_based_collection_selection/</guid>
+      <guid>https://noricc.github.io/publications/classification_based_collection_selection/</guid>
       <description>Accepted at the International Conference on Evaluation and Assessment in Software Engineering (EASE) 2023.
 Abstract Carefully selecting the right collection datastructure can significantly improve the performance of a Java program. Unfortunately, the performance impact of a certain collection selection can be hard to estimate.To assist developers there are tools that recommend collections to use based on static and/or dynamic information about a program. The majority of existing collection selection tools for Java (e.</description>
     </item>

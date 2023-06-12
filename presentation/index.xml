@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Who am I? on Noric Couderc</title>
-    <link>http://example.org/presentation/</link>
+    <link>https://noricc.github.io/presentation/</link>
     <description>Recent content in Who am I? on Noric Couderc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://noricc.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
